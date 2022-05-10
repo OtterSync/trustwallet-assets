@@ -166,5 +166,11 @@
         "name": "Stakepile",
         "description": "Stakepile - Grow your stake reliably with us. We also stake DOT, KSM, OSMO, JUNO, COMDEX, HUAHUA. Say hi at stake(at)stakepile.com",
         "website": "https://stakepile.com"
+    },
+    {
+        "id": "kavavaloper1fwru9at8hsu7hmhu0zypdn3863xvdcg80nm5dv",
+        "name": "OtterSync",
+        "description": "Validating with horcurx ditributed signers!",
+        "website": "https://ottersync.io"
     }
 ]
